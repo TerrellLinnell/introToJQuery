@@ -13,3 +13,5 @@ var getName = function(){
 };
 
 $('.alert_button2').click(getName);
+
+console.log("ftgyhjhgf");
